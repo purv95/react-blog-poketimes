@@ -1,3 +1,7 @@
+Poketimes - A simple blog website made with React, Redux and CSS
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
